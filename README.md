@@ -1,1 +1,1 @@
-# MADHURI-SALES-DASHBOARD
+The Madhuri Sales Dashboard is an interactive Power BI project created to analyze and visualize sales data effectively. The dashboard converts raw sales data into meaningful insights that help understand business performance, sales trends, and revenue distribution. This project is ideal for showcasing data analytics and visualization skills.
